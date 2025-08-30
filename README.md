@@ -28,7 +28,6 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28664172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28664172" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61573649685839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61573649685839" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/@hustl_er1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/@hustl_er1729" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
